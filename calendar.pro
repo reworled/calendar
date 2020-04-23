@@ -5,5 +5,5 @@ HEADERS     = mainwindow.h
 SOURCES     = main.cpp \
               mainwindow.cpp
 
-target.path = /opt/calendar/bin/calendar
+target.path = /opt/calendar/bin
 INSTALLS += target
